@@ -25,4 +25,5 @@ listen_today.close()
 print(cnt)
 print()
 def t():
-    pass
+    print('t')
+    return 1
